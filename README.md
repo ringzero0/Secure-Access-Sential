@@ -4,8 +4,7 @@
 Secure Access Sential is a real-time cybersecurity system designed with Zero Trust Architecture. It protects sensitive data like customer PII or financial records by detecting and preventing suspicious access patterns in real-time.
 
 
-🎯 Domain: Cyber Security  
-🧠 Problem Statement ID: CS-01  
+🎯 Domain: Cyber Security    
 👨‍💻 Team: Ring Zero  
 🏫 College: SKSVMACET  
 
