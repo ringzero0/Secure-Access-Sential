@@ -113,10 +113,10 @@ A major challenge in Zero Trust Architecture is real-time detection and preventi
 
 * [Praveen](https://github.com/prvnprk)
 * [Latesh](https://github.com/Lateshshetty)
-* [Pramodhgouda](https://github.com/Pramod1831)
+* [Pramodh Gouda](https://github.com/Pramod1831)
 
 ---
 
 ## 🏁 License
 
-This project is open-source and licensed under the [MIT License](LICENSE).
+All rights reserved by **Ringzero**. This project is not licensed for commercial use without permission.
