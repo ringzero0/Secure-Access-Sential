@@ -113,7 +113,7 @@ A major challenge in Zero Trust Architecture is real-time detection and preventi
 
 * [Praveen](https://www.linkedin.com/in/prvnp/)
 * [Latesh](https://www.linkedin.com/in/latesh-shetty-ab0a70308/)
-* [Pramodh Gouda](https://www.linkedin.com/in/pramodgouda-v-k-04030b261/)
+* [Pramodhgouda](https://www.linkedin.com/in/pramodgouda-v-k-04030b261/)
 
 ---
 
